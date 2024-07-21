@@ -71,18 +71,6 @@ This project successfully applied the K-Means algorithm for anomaly detection on
 - Python 3.x
 - Kali Linux Virtual environment (optional but recommended)
 
-### Installing Dependencies
-1. Clone the repository.
-2. Navigate to the `HW4` directory.
-    ```bash
-    cd HW4
-    ```
-3. Install the required Python packages using:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-
 ### Running the Code
 1. Navigate to the `src` directory of folder `HW4`:
     ```bash
