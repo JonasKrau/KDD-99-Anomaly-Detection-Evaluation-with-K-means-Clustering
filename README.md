@@ -72,7 +72,7 @@ This project successfully applied the K-Means algorithm for anomaly detection on
 - Kali Linux Virtual environment (optional but recommended)
 
 ### Running the Code
-1. Navigate to the `src` directory of folder `HW4`:
+1. Navigate to the `src` directory:
     ```bash
     cd src
     ```
