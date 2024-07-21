@@ -135,11 +135,11 @@ From the above basic values, the following derived metrics were calculated:
 
 #### Precision
 The ratio of correctly identified attacks to the total number of events identified as attacks.
-$$ Precision = TP / TP+FP
+$ Precision = TP / TP+FP
 
 #### Recall
 The ratio of correctly identified attacks to the total number of actual attacks.
-$$ Recall = {TP \over TP + FN} $$
+$ Recall = {TP \over TP + FN} $
 
 #### False Positive Rate (FPR)
 The ratio of incorrectly identified attacks to the total number of actual normal events.
