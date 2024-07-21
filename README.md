@@ -135,7 +135,7 @@ From the above basic values, the following derived metrics were calculated:
 
 #### Precision
 The ratio of correctly identified attacks to the total number of events identified as attacks.
-$$ Precision = {TP \over TP+FP} $$
+$$ Precision = TP / TP+FP
 
 #### Recall
 The ratio of correctly identified attacks to the total number of actual attacks.
