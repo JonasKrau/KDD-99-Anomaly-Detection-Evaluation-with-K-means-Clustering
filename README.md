@@ -143,23 +143,23 @@ The ratio of correctly identified attacks to the total number of actual attacks.
 
 #### False Positive Rate (FPR)
 The ratio of incorrectly identified attacks to the total number of actual normal events.
-FPR = FP / FP+TN
+- FPR = FP / FP+TN
 
 #### Specificity
 The ratio of correctly identified normal events to the total number of actual normal events.
-Specificity = TN / FP+TN
+- Specificity = TN / FP+TN
 
 #### Negative Predictive Value (NPV)
 The ratio of correctly identified normal events to the total number of events identified as normal.
-NPV = TN / TN+FN
+- NPV = TN / TN+FN
 
 #### Accuracy
 The ratio of correctly identified events (both normal and attacks) to the total number of events.
-Accurancy = TP+TN / TP+FP+TN+FN
+- Accurancy = TP+TN / TP+FP+TN+FN
 
 #### F-Measure
 The harmonic mean of precision and recall.
-F-Measure = (2xPrecisionxRecall)/(Precision+Recall)
+- F-Measure = (2xPrecisionxRecall)/(Precision+Recall)
 
 #### Results
 The metrics calculated for the K-means clustering algorithm on the KDD'99 dataset are as follows:
