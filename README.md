@@ -139,7 +139,7 @@ $ Precision = TP / TP+FP
 
 #### Recall
 The ratio of correctly identified attacks to the total number of actual attacks.
-$ Recall = {TP \over TP + FN} $
+$ Recall = TP / TP + FN $
 
 #### False Positive Rate (FPR)
 The ratio of incorrectly identified attacks to the total number of actual normal events.
