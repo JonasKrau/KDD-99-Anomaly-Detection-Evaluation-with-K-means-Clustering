@@ -1,6 +1,7 @@
-# Introduction
-This project demonstrates the application of the K-means clustering algorithm on the KDD'99 dataset for anomaly detection. The process involves downloading the dataset (Task 1), performing K-means clustering (Task 2), and then evaluating the results using various metrics (Task 3). This repository provides the necessary scripts and documentation to reproduce the analysis.
-All tasks were solved in a Kali Linux VM under Virtual Box.
+# KDD 99 Anomaly Detection Evaluation with K-means Clustering
+
+## Introduction
+This project demonstrates the application of the K-means clustering algorithm, an unsupervised machine learning technique, on the KDD'99 dataset for anomaly detection. The process involves downloading the dataset (Task 1), performing K-means clustering (Task 2), and then evaluating the results using various metrics (Task 3). This repository provides the necessary scripts and documentation to reproduce the analysis. All tasks were solved in a Kali Linux VM under Virtual Box.
 
 ## Task 1
 Dataset Download in Kali Linux (Terminal): 
